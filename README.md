@@ -9,7 +9,7 @@ Where:
 - **Organization** = Your company/ affiliation, e.g. Boeing, LaRC
 - **Solver** = CFD solver used in results generation, e.g. charLES, FUN3D
 
-**000-Template-Submission** contains a single folder containing the template submission files. Participants are asked to create a copy of this folder for each submission. The folder should be renamed using the following structure:
+**000-Template-Submission** contains another folder (XXX_TC1_Y_ZZ) containing the template submission files. Participants are asked to create a copy of this folder for each submission. The folder should be renamed using the following structure:
 
 **Foldername = PID\_TC1\_TFG\_DATASET e.g. 005\_TC1\_S\_01**
 
