@@ -1,4 +1,4 @@
-# High Lift Prediction Workshop 6 - Template Submission Files =TEST=
+# High Lift Prediction Workshop 6 - Template Submission Files =TEST2=
 
 This folder contains four files participants are expected to modify and submit for Test Case 1:
 
