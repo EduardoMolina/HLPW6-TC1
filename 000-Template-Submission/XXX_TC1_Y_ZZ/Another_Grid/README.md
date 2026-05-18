@@ -1,4 +1,5 @@
 # Another_Grid Submission Files
+## Submitter is asked to rename this folder to match grid name/ nomenclature used where possible. 
 
 Include surface skin friction, pressure and iterative convergence data for non-nominal grids.
 These should correspond to the grids included in the **gridconvergence\_FM.dat** file.
