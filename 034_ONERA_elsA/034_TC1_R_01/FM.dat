@@ -50,7 +50,7 @@ VARIABLES = "ALPHA" "N" "CL" "CD" "CM" "DT" "TSTART" "TAVG" "CLp" "CLv" "CDp" "C
 # changing, e.g., "NAMED GRID 1" to a description of the grid used (such as "GRID 2.R.02 R LEVEL")
 # and include the word NOMINAL next to the result you feel is "best")
 
-ZONE T="XXX TC1, FIXED OWN PW GRID"
+ZONE T="034 TC1, FIXED OWN PW GRID"
  10.0  31377484   1.2162 0.1555 -0.1059   -1 -999 -999   -999 -999 -999 -999 
  15.0  31377484   1.5332 0.2174 -0.0790   -1 -999 -999   -999 -999 -999 -999 
  20.0  31377484   1.8276 0.2910 -0.0608   -1 -999 -999   -999 -999 -999 -999 
@@ -59,7 +59,7 @@ ZONE T="XXX TC1, FIXED OWN PW GRID"
  35.0  31377484   2.2293 0.5382 0.0203   -1 -999 -999   -999 -999 -999 -999 
 
 # Add one zone for each other grid in the family for which you are reporting FM data (delete the zones if there are none):
-ZONE T="XXX TC1, NOMINAL FIXED OWN PW SOURCES GRID"
+ZONE T="034 TC1, NOMINAL FIXED OWN PW SOURCES GRID"
  10.0  44145911   1.2225 0.1557 -0.1059   -1 -999 -999   -999 -999 -999 -999 
  15.0  44145911   1.5466 0.2187 -0.0818   -1 -999 -999   -999 -999 -999 -999 
  20.0  44145911   1.8454 0.2936 -0.0657   -1 -999 -999   -999 -999 -999 -999 
