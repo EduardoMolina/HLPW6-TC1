@@ -50,7 +50,7 @@ VARIABLES = "ALPHA" "N" "CL" "CD" "CM" "DT" "TSTART" "TAVG" "CLp" "CLv" "CDp" "C
 # changing, e.g., "NAMED GRID 1" to a description of the grid used (such as "GRID 2.R.02 R LEVEL")
 # and include the word NOMINAL next to the result you feel is "best")
 
-ZONE T="011 TC1, NOMINAL L11"
+ZONE T="011 TC1, charLES Level 11 Grid, Nominal"
  10.0  307027209   1.213003 0.148297 -0.106817   2.5651e-05 20.0110 19.9895   -999 -999 -999 -999 
  15.0  307027209   1.510396 0.205987 -0.075585   2.5531e-05 20.0048 20.0115   -999 -999 -999 -999 
  20.0  307027209   1.808541 0.278152 -0.057445   2.5074e-05 20.0245 19.9806   -999 -999 -999 -999 
