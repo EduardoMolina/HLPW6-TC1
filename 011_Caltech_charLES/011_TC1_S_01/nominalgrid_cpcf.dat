@@ -43,18 +43,18 @@
 #
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 
-TITLE = "XXX_TC1_TFG_DATASET"
+TITLE = "011_TC1_S_01"
 
 #                            <----- Optional ----->
 VARIABLES = "X" "Y" "Z" "CP" "CF" "CFX" "CFY" "CFZ"
 
 # the following lines need the quotes, modify string to numeric value within quotes
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_10p0  = "insert your gridsize N for AoA=10 case here"
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_15p0  = "insert your gridsize N for AoA=15 case here"
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_20p0  = "insert your gridsize N for AoA=20 case here"
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_25p0  = "insert your gridsize N for AoA=25 case here"
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_30p0  = "insert your gridsize N for AoA=30 case here"
-DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_35p0  = "insert your gridsize N for AoA=35 case here"
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_10p0  = 307027209
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_15p0  = 307027209
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_20p0  = 307027209
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_25p0  = 307027209
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_30p0  = 307027209
+DATASETAUXDATA N_NUMBEROFUNKNOWNS_AOA_35p0  = 307027209
 
 # The following section is for AoA=10 deg:
 # Chordwise rows:
