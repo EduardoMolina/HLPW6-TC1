@@ -15,10 +15,10 @@ Additionally, participants should revise the Readme.md (this file) within their 
 # PARTICIPANT INFO:
 
 # Name(s) and Organization(s):
-Eduardo Molina - Embraer
-Mauro Lopez - Embraer
-Pedro Ciloni - Embraer 
-Rodrigo Granzoto - Embraer
+- Eduardo Molina - Embraer
+- Mauro Lopez - Embraer
+- Pedro Ciloni - Embraer 
+- Rodrigo Granzoto - Embraer
 
 ## Primary Email:  
 eduardo.molina@embraer.com.br
