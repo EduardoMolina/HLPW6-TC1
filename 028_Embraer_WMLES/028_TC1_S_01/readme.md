@@ -29,14 +29,14 @@ eduardo.molina@embraer.com.br
 Volcano ScaLES - 2026.03.3
 
 ## Basic Algorithm:  
-### Spatial discretization: Finite Difference 4th order (inviscid) + 2nd order (viscous)
-### Time integration: Explicit (3rd order Runge-Kutta)  
-### Initialization method: Freestream / impulsive start for free air and grid-sequencing
-### Grid topology: Octree Cartesian grids with immersed boundary 
-### Wall modeling: Equilibrium Wall Modeling (Algebraic) 
-### SGS closure: Smagorinsky with Dynamic Procedure 
-### Aspect ratio range (tangential spacing/wall-normal): 1 
-### Wall model exchange location: 1.5 x (Dx) 
+- Spatial discretization: Finite Difference 4th order (inviscid) + 2nd order (viscous)
+- Time integration: Explicit (3rd order Runge-Kutta)  
+- Initialization method: Freestream / impulsive start for free air and grid-sequencing
+- Grid topology: Octree Cartesian grids with immersed boundary 
+- Wall modeling: Equilibrium Wall Modeling (Algebraic) 
+- SGS closure: Smagorinsky with Dynamic Procedure 
+- Aspect ratio range (tangential spacing/wall-normal): 1 
+- Wall model exchange location: 1.5 x (Dx) 
 
 ## Turbulence Model:  
 None
