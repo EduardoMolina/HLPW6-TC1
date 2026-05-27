@@ -15,31 +15,33 @@ Additionally, participants should revise the Readme.md (this file) within their 
 # PARTICIPANT INFO:
 
 # Name(s) and Organization(s):
-Insert name(s) and corresponding organization(s) here
+Adrian Lozano-Duran (Caltech)
+Imran Hayat (Caltech)
+Hugh Cairney (MIT)
+Yuenong Ling (MIT)
 
 ## Primary Email:  
-Insert point of contact (POC) email here
+adrianld@caltech.edu
+ihayat@caltech.edu
 
 ## Primary Phone:  
-Insert POC phone here
+626-395-2374
 
 ## Address:  
-Insert POC address here
+California Institute of Technology
+Mail Code MC 105-50
+Pasadena, CA 91125
  
 # SOLVER INFORMATION:
 
 ## Solver Name and Version:
-Insert solver name and version here
-
-charLES
+Fidelity CharLES
 
 ## Basic Algorithm:  
-Insert relevant details about algorithm here
+Compressible, unstructured grid, cell-centered finite volume LES
 
 ## Turbulence Model:  
-Insert details about turbulence model here (if applicable)
-
-Building-Block Flow Model (BFM) Version 1
+WMLES: Building-Block Flow Model (BFM) Version 1
 
 ## Transition Method:
 Insert details about transition model or method (if applicable)
@@ -58,25 +60,19 @@ Insert name of committee-supplied grid here
 
 For non-committee grids...
 ## Grid-Generator Name and Version:  
-Insert grid generator name and version here
-
-Stitch
+Stitch (Fidelity CharLES)
 
 ## Type (str, overset, unstr, etc):  
-Insert grid type here
-
 Unstructured
 
 ## Number of Total Nodes:  
 Insert number of nodes here (multiple lines if grid convergence study was done)
 
 ## Number of Total Cells:
-Insert number of cells here (multiple lines if grid convergence study was done)
-
 307027209
 
 ## Miscellaneous:  
-Insert any other information about the grids or solution procedure(s) used for Case 2.1 here
+Grid was provided by SRS-TFG lead (Konrad) - L11 grid
 
 # "TYPICAL" SOLUTION PERFORMANCE INFORMATION 
 ## Grid size:
