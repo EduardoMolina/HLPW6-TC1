@@ -42,7 +42,7 @@
 #
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-TITLE = "033_TC1_S_001"
+TITLE = "027_TC1_S_001"
 #                                                           <----- Optional ----->
 VARIABLES = "ALPHA" "N" "CL" "CD" "CM" "DT" "TSTART" "TAVG" "CLp" "CLv" "CDp" "CDv"
 
@@ -50,7 +50,7 @@ VARIABLES = "ALPHA" "N" "CL" "CD" "CM" "DT" "TSTART" "TAVG" "CLp" "CLv" "CDp" "C
 # changing, e.g., "NAMED GRID 1" to a description of the grid used (such as "GRID 2.R.02 R LEVEL")
 # and include the word NOMINAL next to the result you feel is "best")
 
-ZONE T="033 TC1, Flow360 Embraer Grid 1"
+ZONE T="027 TC1, Flow360 Embraer Grid 1"
 10.000 71818925 1.21897 0.14655 -0.10698  2.93867e-05 20.0 10.0 1.21891   0.00006 0.13801 0.00855
 15.000 71818925 1.52432 0.20600 -0.07485  2.93867e-05 20.0 10.0 1.52434  -0.00002 0.19717 0.00883 
 20.000 71818925 1.83255 0.28201 -0.05710  2.93867e-05 20.0 10.0 1.83274  -0.00020 0.27288 0.00913 
